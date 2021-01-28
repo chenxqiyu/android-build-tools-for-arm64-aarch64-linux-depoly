@@ -4,8 +4,6 @@
  
  手机:oneplus7pro
  
-apt:
-
 deb http://ftp.cn.debian.org/debian/ bullseye main contrib non-free
 
 deb-src http://ftp.cn.debian.org/debian/ bullseye main contrib non-free

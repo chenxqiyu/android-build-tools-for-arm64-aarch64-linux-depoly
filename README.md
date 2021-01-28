@@ -16,7 +16,7 @@ sdk buildtool 29.0.3
 
 classpath "com.android.tools.build:gradle:3.6.4"
 
-sdk的appt2替换包里的jar 路径:/home/hu60/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2/xxx/xxx.jar  
+/usr/lib/android-sdk/buildtools/,sdk的aapt2替换包里的jar 路径:/home/hu60/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2/xxx/xxx.jar  
 
 
 ![输入图片说明](https://raw.githubusercontent.com/chenxqiyu/android-build-tools-by-aarch64/main/11.jpg "QQ截图20200329060210.jpg")

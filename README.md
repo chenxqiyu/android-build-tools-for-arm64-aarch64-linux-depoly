@@ -1,6 +1,7 @@
 
 apt:
 deb http://ftp.cn.debian.org/debian/ bullseye main contrib non-free
+
 deb-src http://ftp.cn.debian.org/debian/ bullseye main contrib non-free
 
 sdk buildtool 29.0.3

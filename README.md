@@ -8,6 +8,10 @@ deb http://ftp.cn.debian.org/debian/ bullseye main contrib non-free
 
 deb-src http://ftp.cn.debian.org/debian/ bullseye main contrib non-free
 
+apt install android-sdk
+
+apt install android-sdk-*
+
 sdk buildtool 29.0.3
 
 classpath "com.android.tools.build:gradle:3.6.4"
